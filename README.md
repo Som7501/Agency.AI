@@ -1,5 +1,7 @@
 <div align="center">
 
+![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+
 <h1>✨ Digital Impact Agency</h1>
 
 <p>
@@ -12,6 +14,12 @@ Smooth animations • Interactive UI • Dark / Light Mode
 </p>
 
 <br/>
+
+<a href="https://agency-ai-for-dev.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🚀 Live%20Website-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 <p>
 <a href="#-features">Features</a> •
