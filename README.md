@@ -1,7 +1,5 @@
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
-
 <h1>✨ Digital Impact Agency</h1>
 
 <p>
@@ -108,15 +106,18 @@ const animate = () => {
 }
 ```
 
+---
+
 ## 💻 Installation & Setup
 Follow these steps to get the project running locally.
 
 ### Prerequisites
-** Node.js (v16 or higher)
 
-** npm or yarn
+- Node.js (v16 or higher)
 
-Steps
+- npm or yarn
+
+### Steps
 
 
 ```Bash
@@ -139,7 +140,7 @@ npm run dev
 ```
 ### 📍 Open: http://localhost:5173
 
-
+---
 
 ## 📂 Project Structure
 
@@ -159,7 +160,7 @@ src/
 └── main.jsx         # Entry point
 
 ```
-
+---
 
 ## 🤝 Contributing
 Contributions are always welcome 💙
@@ -179,8 +180,19 @@ git push origin feature/AmazingFeature
 
 ### Open a Pull Request 🚀
 
+---
 
-## 📝 License
-Distributed under the MIT License. See LICENSE for more information.
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+
+## ⭐ Support the Project
+
+If you found this useful, consider giving it a star ⭐
+
+---
 
 <div align="center"> <p>Made with ❤️ using React & Tailwind</p> </div>
